@@ -14,3 +14,11 @@
   font-size: 0.9em;
   text-transform: uppercase;
 }
+.home {
+display: flex;
+  font-size: 5em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;

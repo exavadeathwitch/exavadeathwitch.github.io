@@ -6,11 +6,16 @@
 
 .left-side {
   display: flex;
-  justify-content: space-between;
 }
 
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size 0.9em;
   text-transform: lowercase
+}
+
+.nav-link-wrapper {
+  heigt: 22px;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s;
 }

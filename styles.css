@@ -1,6 +1,4 @@
-.placeholder {
-  background-color: red;
-}
-.anotherclass {
-  background-color: red;
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
 }

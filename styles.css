@@ -1,19 +1,4 @@
-.nav-wrapper {
-  display: flex;
-  justify-content: space-between;
-  padding: 38px;
-}
 
-.left-side {
-  display: flex;
-}
-
-
-.nav-warpper > .left-side > div {
-  margin-left: 20px;
-  font-size: 0.9em;
-  text-transform: uppercase;
-}
 .home {
 display: flex;
   font-size: 5em;

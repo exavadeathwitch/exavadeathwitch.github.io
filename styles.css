@@ -42,3 +42,9 @@ margin: 0px;
 .nav-link-wrapper a:hover {
   color: black;
 }
+
+
+.portfolio-items-wrapper {
+  display: grid;
+  grid-template-columms: 1fr 1fr 1fr
+}
